@@ -3,25 +3,17 @@
 # @Author  : zhangyihan
 # @File    : git.py
 
-
-def test():
-    print('git123')
-
+print('git123')
 
 b = ['q', 'b', 'a']
 print(b)
 
-
 a = []
-
 
 c = [1234]
 
-
 d = [1234]
 
-
 e = [123123]
-
 
 g = []
