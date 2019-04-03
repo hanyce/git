@@ -6,3 +6,6 @@
 
 def test():
     print('我要学git123')
+
+
+a = []
