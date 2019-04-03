@@ -10,3 +10,6 @@ def test():
 
 b = ['q', 'b', 'a']
 print(b)
+
+
+a = []
