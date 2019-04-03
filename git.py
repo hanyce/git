@@ -4,8 +4,7 @@
 # @File    : git.py
 
 
-def test():
-    print('我要学git123')
+print('git123')
 
 
 b = ['q', 'b', 'a']
