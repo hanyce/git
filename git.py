@@ -5,5 +5,4 @@
 
 
 print('git212')
-print('123')
-print('zhang')
+print('123456')
