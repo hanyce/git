@@ -14,4 +14,5 @@ print('git')
 
 
 def test():
+    test = []
     return '789'
