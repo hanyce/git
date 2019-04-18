@@ -5,4 +5,5 @@
 
 
 def test():
+    print(123)
     return 'zyh'
