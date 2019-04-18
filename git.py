@@ -6,4 +6,5 @@
 
 def new_test():
     print('123')
+    print('456')
     return 'zhangyihan'
