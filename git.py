@@ -5,4 +5,5 @@
 
 
 def new_test():
+    print(456)
     return 'zhangyihan'
