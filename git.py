@@ -4,16 +4,5 @@
 # @File    : git.py
 
 
-print('git123')
-print('git4566')
-print('git789')
-print('git123')
-print('zhangyihan')
-print('xuehan')
-print('git')
-
-
 def test():
-    data = []
-    test = []
-    return '101112'
+    return 'zyh'
