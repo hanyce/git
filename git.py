@@ -14,4 +14,5 @@ print('git')
 
 
 def test():
-    pass
+    return '123'
+
