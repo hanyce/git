@@ -7,3 +7,6 @@
 def new_test():
     print(456)
     return 'zhangyihan'
+def test():
+    print(123)
+    return 'zyh'
