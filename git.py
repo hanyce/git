@@ -4,9 +4,5 @@
 # @File    : git.py
 
 
-def new_test():
-    print('789')
-    print('123')
-    print('456')
-    print('101112')
-    return 'zhangyihan'
+def test():
+    return 'zyh'
